@@ -44,7 +44,7 @@ const menuLinks = [
   "https://hackmd.io/@3OvxlZiGSxyFx5MGHXqTYQ/H1Y4qu1nge", // 氣球講義
   "", // 回到主頁 (內部控制)
   "", // 測驗卷 (內部控制)
-  "https://hackmd.io/@3OvxlZiGSxyFx5MGHXqTYQ/Byt45Jvybe/edit", // 測驗筆記
+  "https://hackmd.io/@3OvxlZiGSxyFx5MGHXqTYQ/ryxyfgP1Ze", // 測驗筆記
   "https://www.et.tku.edu.tw/" // 教科系
 ];
 
